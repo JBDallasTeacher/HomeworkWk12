@@ -1,5 +1,5 @@
 # myFirstMarkdown
-This is my first markdown file for my GitHub Homework Week 12
+This is my first markdown file for my GitHub Homework Week 12 (Node.js & MySQL)
 
 Homework Instructions
 
